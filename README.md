@@ -1,6 +1,3 @@
-# Excel-Sales_Analytics
-
-Demo
 ## Sales Report :
 
 
